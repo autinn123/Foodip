@@ -6,7 +6,7 @@ router.get('/', function(req, res, next) {
   res.render('menu/index')
 });
 router.get('/detail', function(req, res, next) {
-  res.render('menu/sho');
+  res.render('menu/detail');
 });
 
 
