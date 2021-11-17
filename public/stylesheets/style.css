@@ -90,9 +90,14 @@ header {
     z-index: 1000;
 }
 
+.logo {
+    width: 20rem;
+    height: 6.2rem;
+    overflow: hidden;
+}
 .logo img {
-    height: 6rem;
-    cursor: pointer;
+    margin: -35px 0px 0px 0px;
+    width: 70%;
 }
 
 
