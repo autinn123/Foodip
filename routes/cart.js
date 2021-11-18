@@ -6,9 +6,6 @@ router.get('/', function(req, res, next) {
   res.render('carts/index');
 });
 
-router.get('/detail', function(req, res, next) {
-  res.render('carts/detail');
-});
 
 
 
